@@ -78,8 +78,7 @@ la comunidad. Ejemplos de representación del proyecto o de la comunidad incluye
 
 * Uso de correos electrónicos oficiales del proyecto
 * Publicación en cuentas de redes sociales oficiales 
-* Actuar como representante designado en eventos en línea o …….
-
+* Actuar como representante designado en cualquier tipo de evento
 La representación de un proyecto puede ser definida o clarificada por los mantenedores
 del proyecto.
 
