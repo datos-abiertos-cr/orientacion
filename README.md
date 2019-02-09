@@ -1,6 +1,10 @@
 # Orientación
 
-El objetivo de esta organización es promover el uso de los datos abiertos provenientes de instituciones gubernamentales de Costa Rica. 
+## Objetivo
+El objetivo de esta organización es promover el uso de los datos abiertos provenientes de instituciones gubernamentales de Costa Rica a través de la iniciativa [Gobierno Abierto](http://www.gobiernoabierto.go.cr/)
+
+Queremos promover el uso a través de la creación de ejemplos y tutoriales utilizando el lenguaje de programación R.
+
 
 ## Código de conducta
 
