@@ -10,5 +10,5 @@ Queremos promover el uso a través de la creación de ejemplos y tutoriales util
 
 Si querés participar creando material para la organización estas más que bienvenido. Solamente hay que tomar en cuenta el código de conducta para hacer de esto una experiencia amena. 
 
-Podés leer el [código de conducta](https://github.com/datos-abiertos-cr/orientacion/blob/master/code-of-conduct.md) que hemos incluido.
+Podés leer el [código de conducta](https://github.com/datos-abiertos-cr/orientacion/blob/master/codigo-de-conducta.md) que hemos incluido.
 
