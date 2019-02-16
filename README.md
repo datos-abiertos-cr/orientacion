@@ -3,7 +3,7 @@
 ## Objetivo
 El objetivo de esta organización es promover el uso de los datos abiertos provenientes de instituciones gubernamentales de Costa Rica gracias a la iniciativa de [Gobierno Abierto](http://www.gobiernoabierto.go.cr/), 
 
-Con esta organización pretendemos empoderar a los ciudadanos para que mediante la ciencia de datos se pueda promover la cogobernanza de las instituciones publicas del estado costarrcense. 
+Con esta organización pretendemos empoderar a los ciudadanos para que mediante la ciencia de datos se pueda promover la cogobernanza de las instituciones publicas del estado costarricense. 
 
 Esta iniciativa de datos abiertos Costa Rica va acorde con la [Estrategia de Transformación Digital hacia la Costa Rica del Bicentenario 4.0](https://micit.go.cr/images/imagenes_noticias/17-10-2018_Estrategia_de_Transformaci%C3%B3n_Digital_hacia_la_Costa_Rica_del_Bicentenario/estrategia_de_transformacion_digital_de_costa_rica.pdf)
 
