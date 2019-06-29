@@ -10,67 +10,41 @@ contribuyentes y mantenedores nos comprometemos a hacer la participación el pro
 Ejemplos de comportamiento que contribuye a crear un ambiente positivo incluyen:
 
 * Usar lenguaje amable e inclusivo.
-* Using welcoming and inclusive language
 
 * Ser respetuoso de los diferentes puntos de vista y vivencias.
-* Being respectful of differing viewpoints and experiences
 
 * Aceptar de manera respetuosa las críticas constructivas.
-* Gracefully accepting constructive criticism
 
 * Enfocarse en lo que es mejor para la comunidad.
-* Focusing on what is best for the community
 
 * Mostrar empatía hacia otros miembros de la comunidad.
-* Showing empathy towards other community members
 
 Ejemplos de conductas inaceptables por parte de los participantes incluyen:
-Examples of unacceptable behavior by participants include:
 
 * El uso de lenguaje, imágenes sexuales o alguna forma de acoso sexual. 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
   
 * "Trolling", comentarios derogatorios o insultantes y ataques personales o políticos. 
-* Trolling, insulting/derogatory comments, and personal or political attacks
 
 * Acoso público o privado.
-* Public or private harassment
 
 * Publicación sin consentimiento de la información privada de otras personas, 
   como email, dirección de residencia.  
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
   
 * Otras conductas que podrían razonablemente ser consideradas como inapropiadasa
   en un ambiente profesional. 
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
 
 ## Nuestras responsabilidades
-## Our Responsibilities
 
 Los mantenedores de este proyecto son responsables de clarificar los estándares de 
 comportamiento aceptable y de tomar decisiones apropiadas. Además de tomar medidas 
 correctivas justas en respuesta a comportamientos considerados como inaceptables 
-
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
 
 Los mantenedores de este proyecto tienen el derecho y la responsabilidad de remover,
 editar, o rechazar comentarios, "commits", código, edición de paginas wiki, incidentes y
 cualquier tipo de contribución que no se ajustan al código de conducta o de prohibir temporal
 o permanentemente cualquier contribución que sea inapropiada, amenazadora, ofensiva o hiriente.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
 ## Alcance
-## Scope
 
 Este código de conducta aplica tanto para dentro de los espacios del proyecto como
 para espacios públicos en donde los individuos estén representando el proyecto o a 
@@ -82,15 +56,7 @@ la comunidad. Ejemplos de representación del proyecto o de la comunidad incluye
 La representación de un proyecto puede ser definida o clarificada por los mantenedores
 del proyecto.
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
-
 ## Ejecución
-## Enforcement
 
 Instancias de abuso, acoso o comportamiento inaceptable puede ser reportado contactando al 
 equipo[ronny.hernandezm@gmail.com o erickcamo19@gmail.com]. Todos las quejas serán revisadas
@@ -98,23 +64,11 @@ e investigadas y serán resueltas bajo el contexto de cada denuncia. El equipo e
 mantener la confidencialidad de cada denunciante. Mayores detalles sobre políticas de ejecución
 pueden ser publicadas de manera separada. 
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. 
-The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
 Los mantenedores del proyecto que no sigan o que no apliquen el código de conducta de buena manera
 podrían enfrentar repercusiones temporales o permanentes las cuales serán determinadas por los otros
 líderes del proyecto.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
 ## Atribución 
-## Attribution
 
 Este código de conducta fue adaptado de [Contributor Covenant][homepage], version 1.4,
 disponible en https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
@@ -123,10 +77,4 @@ disponible en https://www.contributor-covenant.org/version/1/4/code-of-conduct.h
 Para respuestas a preguntas comunes sobre este código de conducta ver
 https://www.contributor-covenant.org/faq
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
 
