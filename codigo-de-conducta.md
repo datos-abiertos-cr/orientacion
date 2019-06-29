@@ -1,4 +1,4 @@
-# Código de conducta de ixpantia
+# Código de conducta
 
 ## Nuestro compromiso
 
